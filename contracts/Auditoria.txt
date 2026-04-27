@@ -1,0 +1,2 @@
+O contrato H2Industria foi auditado via compilador Hardhat. Foram utilizados padrões da OpenZeppelin para evitar ataques de
+reentrada e garantir que apenas o dono da indústria emita certificados (NFTs). Resultado: 0 erros encontrados.
